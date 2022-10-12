@@ -10,6 +10,10 @@
 
 ## 📜 List of Programs
 
+- ### [Current Date & Time](PROGRAMS/date_time.py)
+
+    Display current date and time in default and formatted strings.
+
 ## 🤝 Contributing
 
 Contributions are most welcome to this repository. Every PR of good quality will be merged ASAP.
