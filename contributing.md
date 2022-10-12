@@ -6,7 +6,7 @@
 2. Clone the repository to your device
 3. It is recommended that you create a new branch for each issue/program you wish to submit
 4. In the `PROGRAMS` directory, create your python program, do not forget to add meaningful comments for readers to understand
-5. In the `readme.md` file's [List of Programs]() section, add a description of your code in the following manner.
+5. In the `readme.md` file's [List of Programs](https://github.com/Anikate-De/pydophile#-list-of-programs) section, add a description of your code in the following manner.
 
     ```md
     - ### [Your Program's Name](PROGRAMS/<program_filename.py>)

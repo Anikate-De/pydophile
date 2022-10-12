@@ -14,7 +14,7 @@
 
 Contributions are most welcome to this repository. Every PR of good quality will be merged ASAP.
 
-Before you start coding your python programs, take some time to read the [Contribution Guide]() and the [Code of Conduct]().
+Before you start coding your python programs, take some time to read the [Contribution Guide](contributing.md) and the [Code of Conduct](code_of_conduct.md).
 
 ## 💡 Author
 
