@@ -14,6 +14,10 @@
 
     Display current date and time in default and formatted strings.
 
+- ### [Square Root of a Number](PROGRAMS/square_root.py)
+
+    Display the square root of an entered number
+
 ## 🤝 Contributing
 
 Contributions are most welcome to this repository. Every PR of good quality will be merged ASAP.
