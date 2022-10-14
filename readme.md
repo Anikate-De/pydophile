@@ -11,6 +11,8 @@
 ## 📜 List of Programs
 
 - ### [Current Date & Time](PROGRAMS/date_time.py)
+- ### [Version](PROGRAMS/Version.py)
+- ### [Plot Graph](PROGRAMS/Plot_graph.py)
 
     Display current date and time in default and formatted strings.
 
