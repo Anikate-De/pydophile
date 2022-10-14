@@ -20,7 +20,7 @@
 
 - ### [Bitcoin Price Index](PROGRAMS/bitcoin.py)
 
-    iTt accepts the number of Bitcoins users want to buy and displays the current market price using API.
+    It accepts the number of Bitcoins users want to buy and displays the current market price of them using API.
 
 ## 🤝 Contributing
 
