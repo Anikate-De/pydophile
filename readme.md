@@ -25,7 +25,10 @@
 - ### [QR CODE Generator](PROGRAMS/QRcode.py)
     
     It generates the QR CODE of any given link and save that QR CODE as an image with .svg extention.
-    
+
+- ### [Bubble Sort Algorithm](PROGRAMS/Bubble_Sort.py)
+
+    It accepts an unsorted list of numbers and sorts them using bubble sort algorithm
 
 
 ## 🤝 Contributing
