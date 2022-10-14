@@ -18,6 +18,10 @@
 
     Display the square root of an entered number
 
+- ### [Bitcoin Price Index](PROGRAMS/bitcoin.py)
+
+    It accepts the number of Bitcoins users want to buy and displays the current market price of them using API.
+
 ## 🤝 Contributing
 
 Contributions are most welcome to this repository. Every PR of good quality will be merged ASAP.
