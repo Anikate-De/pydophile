@@ -18,6 +18,10 @@
 
     Display the square root of an entered number
 
+- ### [Bitcoin Price Index](PROGRAMS/bitcoin.py)
+
+    Display the square root of an entered number
+
 ## 🤝 Contributing
 
 Contributions are most welcome to this repository. Every PR of good quality will be merged ASAP.
