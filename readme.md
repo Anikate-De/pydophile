@@ -20,7 +20,7 @@
 
 - ### [Bitcoin Price Index](PROGRAMS/bitcoin.py)
 
-    Display the square root of an entered number
+    iTt accepts the number of Bitcoins users want to buy and displays the current market price using API.
 
 ## 🤝 Contributing
 
