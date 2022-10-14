@@ -22,6 +22,12 @@
 
     It accepts the number of Bitcoins users want to buy and displays the current market price of them using API.
 
+- ### [QR CODE Generator](PROGRAMS/QRcode.py)
+    
+    It generates a QR CODE of any given link and save that QR CODE as an image with .svg extention
+    
+
+
 ## 🤝 Contributing
 
 Contributions are most welcome to this repository. Every PR of good quality will be merged ASAP.
