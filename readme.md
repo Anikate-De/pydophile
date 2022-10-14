@@ -24,7 +24,7 @@
 
 - ### [QR CODE Generator](PROGRAMS/QRcode.py)
     
-    It generates a QR CODE of any given link and save that QR CODE as an image with .svg extention
+    It generates a QR CODE of any given link and save that QR CODE as an image with .svg extention.
     
 
 
