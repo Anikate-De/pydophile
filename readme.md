@@ -14,6 +14,10 @@
 
     Display current date and time in default and formatted strings.
 
+- ### [Python Version](PROGRAMS/version.py)
+
+    Display the version of Python installed on the system.
+
 - ### [Square Root of a Number](PROGRAMS/square_root.py)
 
     Display the square root of an entered number
