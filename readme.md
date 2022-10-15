@@ -20,11 +20,15 @@
 
 - ### [Square Root of a Number](PROGRAMS/square_root.py)
 
-    Display the square root of an entered number
+    Display the square root of an entered number.
 
 - ### [Bitcoin Price Index](PROGRAMS/bitcoin.py)
 
     It accepts the number of Bitcoins users want to buy and displays the current market price of them using API.
+
+- ### [Merge Sort Algorithm](PROGRAMS/merge_sort.py)
+
+    It accepts an unsorted list of numbers and sorts them using merge sort algorithm.
 
 - ### [QR CODE Generator](PROGRAMS/QRcode.py)
     
@@ -32,11 +36,11 @@
 
 - ### [Bubble Sort Algorithm](PROGRAMS/Bubble_Sort.py)
 
-    It accepts an unsorted list of numbers and sorts them using bubble sort algorithm
+    It accepts an unsorted list of numbers and sorts them using bubble sort algorithm.
 
 - ### [Fibonacci Sequence](PROGRAMS/fibonacci.py)
 
-    Print the fibonacci series upto 'n' terms
+    Print the fibonacci series upto 'n' terms.
 
 
 ## 🤝 Contributing
