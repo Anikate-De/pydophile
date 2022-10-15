@@ -30,6 +30,10 @@
 
     It accepts an unsorted list of numbers and sorts them using bubble sort algorithm
 
+- ### [Fibonacci Sequence](PROGRAMS/fibonacci.py)
+
+    Print the fibonacci series upto 'n' terms
+
 
 ## 🤝 Contributing
 
