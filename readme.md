@@ -14,6 +14,10 @@
 
     Display current date and time in default and formatted strings.
 
+- ### [Python Version](PROGRAMS/version.py)
+
+    Display the version of Python installed on the system.
+
 - ### [Square Root of a Number](PROGRAMS/square_root.py)
 
     Display the square root of an entered number
@@ -29,6 +33,10 @@
 - ### [Bubble Sort Algorithm](PROGRAMS/Bubble_Sort.py)
 
     It accepts an unsorted list of numbers and sorts them using bubble sort algorithm
+
+- ### [Fibonacci Sequence](PROGRAMS/fibonacci.py)
+
+    Print the fibonacci series upto 'n' terms
 
 
 ## 🤝 Contributing
