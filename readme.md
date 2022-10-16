@@ -41,6 +41,9 @@
 - ### [Fibonacci Sequence](PROGRAMS/fibonacci.py)
 
     Print the fibonacci series upto 'n' terms.
+- ### [Scatter_Graph](PROGRAMS/Plot_graph.py)
+    
+    Program to plot a scatter graph taking a random distribution in X and Y (both with shape as (100,) having randomly generated integers.
 
 
 ## 🤝 Contributing
