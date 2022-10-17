@@ -48,11 +48,14 @@
     
 - ### [Dictionary_Dataframe](PROGRAMS/Dictionary_dataframe.py)
       
-    #Program to create a dataframe using the dictionary that stores the Book names and Shelf numbers as list of values. 
+    Program to create a dataframe using the dictionary that stores the Book names and Shelf numbers as list of values. 
     
 - ### [Caesar Cypher](PROGRAMS/caesar_cypher.py>)
 
     Python program that encrypts given text using the shift key and outputs the caesar cypher encryption.
+- ### [Infi_Bookstore](PROGRAMS/Infi_Bookstore.py)
+
+    Python program that works as frontend using Mysql connectivity for the backend database: accepts and stores customer information.
 
 
 ## 🤝 Contributing
