@@ -53,6 +53,18 @@
 - ### [Caesar Cypher](PROGRAMS/caesar_cypher.py>)
 
     Python program that encrypts given text using the shift key and outputs the caesar cypher encryption.
+    
+- ### [Number_Guessing](PROGRAMS/Number_guessing.py)
+    
+    Program to guess the number randomly chosen between 1-15.
+    
+- ### [Pallindrome_check](PROGRAMS/Pallindrome_check.py)
+
+    Program to check whether entered word is a pallindrome or not.
+    
+- ### [Infi_Bookstore](PROGRAMS/InfiBookstore/Infibookstore.py)
+  
+    Program that enables customer to enter details related to their purchase of book and stores the same for future reference.
 
 
 ## 🤝 Contributing
