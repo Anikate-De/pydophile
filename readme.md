@@ -65,7 +65,10 @@
 - ### [Infi_Bookstore](PROGRAMS/InfiBookstore/Infibookstore.py)
   
     Program that enables customer to enter details related to their purchase of book and stores the same for future reference.
+    
+- ### [Create Series Object](PROGRAMS/create_series_object.py)
 
+    Program that creates series object.
 
 ## 🤝 Contributing
 
