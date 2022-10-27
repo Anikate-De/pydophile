@@ -6,5 +6,5 @@ import calendar
 year = int(input('Enter the year - '))
 month = int(input('Enter the two digit number for the month - '))
    
-# display the calendar
+# Display the calendar
 print(calendar.month(year, month))

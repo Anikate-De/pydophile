@@ -3,6 +3,8 @@
 # Get the user input
 n = int(input('Enter the value of \'n\' - '))
 
+print('Value of n + nn + nnn is')
+
 value = n + int(str(n)*2) + int(str(n)*3)
 
 print(value)
