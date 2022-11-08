@@ -1,3 +1,4 @@
+
 #Program to plot a scatter graph
 import matplotlib.pyplot as plt
 import numpy as np
