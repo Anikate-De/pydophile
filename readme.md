@@ -65,7 +65,10 @@
 - ### [Infi_Bookstore](PROGRAMS/InfiBookstore/Infibookstore.py)
   
     Program that enables customer to enter details related to their purchase of book and stores the same for future reference.
+    
+- ### [Series Object Vowels](PROGRAMS/series_object_vowels.py)
 
+    Program that creates series object vowels.
 
 ## 🤝 Contributing
 
