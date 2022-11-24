@@ -65,7 +65,10 @@
 - ### [Infi_Bookstore](PROGRAMS/InfiBookstore/Infibookstore.py)
   
     Program that enables customer to enter details related to their purchase of book and stores the same for future reference.
+    
+- ### [Indexing Day Month](PROGRAMS/Indexing_day_month.py)
 
+    Program for indexing days and months
 
 ## 🤝 Contributing
 
