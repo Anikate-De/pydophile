@@ -21,4 +21,4 @@ else:
         next = a + b
         a = b
         b = next
-        n = n-1
+        n = n - 1

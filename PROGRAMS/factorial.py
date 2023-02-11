@@ -7,5 +7,5 @@ if num < 0:
 else:
     fact = 1
     for i in range(num):
-        fact *= (i+1)
+        fact *= (i + 1)
     print('Factorial is', fact)

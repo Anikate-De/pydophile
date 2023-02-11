@@ -14,6 +14,7 @@ def bubble_sort(lst):
         # Bubble sort the list without the last element
         return bubble_sort(lst[:-1]) + [lst[-1]]
 
+
 # Get the list from the user
 lst = eval(input('Enter the list - '))
 

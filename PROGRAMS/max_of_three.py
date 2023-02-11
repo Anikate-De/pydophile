@@ -5,7 +5,6 @@ a, b, c = int(input('a - ')), int(input('b - ')), int(input('c - '))
 # Maximum using built-in tuple functions in python
 print('Maximum value is -', max(a, b, c))
 
-
 # Max value using conditional statements
 print('Max value is -')
 if a > b and a > c:

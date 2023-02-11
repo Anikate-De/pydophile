@@ -7,8 +7,8 @@ rev = 0
 
 while temp > 0:
     rev *= 10
-    rev += temp%10
-    temp//=10
+    rev += temp % 10
+    temp //= 10
 
 if rev == number:
     print('Number is a Palindrome')

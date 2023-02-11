@@ -6,6 +6,7 @@ def gcd(m, n):
     else:
         return gcd(n, m % n)
 
+
 # Get the numbers from the user
 m = int(input("Enter the value of m: "))
 n = int(input("Enter the value of n: "))

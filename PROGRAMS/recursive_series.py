@@ -6,6 +6,7 @@ def recursive_series(n):
     else:
         return n + recursive_series(n - 2)
 
+
 # Get the value of n from the user
 n = int(input("Enter the value of n: "))
 

@@ -12,10 +12,11 @@ def pascal_triangle(n):
 
     # Print the values of Pascal's triangle
     for i in range(n):
-        print("  "*(n-i), end="")
+        print("  " * (n - i), end="")
         for j in range(i + 1):
             print(pascal[i][j], end="   ")
         print()
+
 
 # Get the value of n from the user
 n = int(input("Enter the number of rows: "))

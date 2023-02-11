@@ -6,5 +6,5 @@ def add_line_prefix(str, prefix):
         lines[i] = prefix + lines[i]
     return "".join(lines)
 
-print(add_line_prefix(input('Enter the string - '), input('Enter the prefix - ')))
 
+print(add_line_prefix(input('Enter the string - '), input('Enter the prefix - ')))
