@@ -11,7 +11,6 @@ if year % 4 == 0:
         if year % 400 == 0:
             leap = True
 
-
 if leap:
     print(year, 'is a leap year')
 else:

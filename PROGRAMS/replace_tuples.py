@@ -9,18 +9,18 @@ new_tuples = []
 for t in tuples:
     # Create an empty list to store the items of the tuple
     items = []
-    
+
     # Loop through the tuple
     for i in t:
         # Add the item to the list
         items.append(i)
-        
+
     # Replace the last item with 100
     items[-1] = 100
-    
+
     # Convert the list to a tuple
     t = tuple(items)
-    
+
     # Add the tuple to the list
     new_tuples.append(t)
 

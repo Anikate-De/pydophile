@@ -11,7 +11,7 @@ else:
     else:
         print('Character is NOT a letter in the English Alphabet')
 
-    print('-'*10)
+    print('-' * 10)
 
     # ALTERNATIVE WAY
     if 97 <= ord(ch.lower()) <= 122:

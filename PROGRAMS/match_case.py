@@ -1,5 +1,5 @@
 a = 'C'
-match(a):
+match (a):
     case 'A':
         print('its a vowel')
     case 'B':

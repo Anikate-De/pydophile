@@ -4,6 +4,6 @@
 n = int(input('Enter a number - '))
 
 if n > 17:
-    print('Double of absolute difference from 17 is', abs(n-17)*2)
+    print('Double of absolute difference from 17 is', abs(n - 17) * 2)
 else:
-    print('Difference from 17 is', abs(n-17))
+    print('Difference from 17 is', abs(n - 17))

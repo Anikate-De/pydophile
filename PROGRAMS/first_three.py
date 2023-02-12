@@ -6,4 +6,5 @@ def first_three(str):
     else:
         return str[:3]
 
+
 print(first_three(input('Enter a string - ')))
